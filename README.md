@@ -1,4 +1,11 @@
 # Test-QA
+Juan David Tole Rodriguez
+cel: 3138345430
+Aspirante QA
+
+
+
+
 Prueba Practica Robot Automatico
 
 
